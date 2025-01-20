@@ -1,0 +1,95 @@
+Personal Resume & Portfolio Website
+
+This is the codebase for my personal resume and portfolio website. It showcases my professional background, projects, and contact information in a clean, responsive layout.
+
+Features
+
+About Section: Highlights personal background and skills.
+
+Portfolio Section: Showcases projects with images and descriptions.
+
+Resume Section: Details professional experience and education.
+
+Contact Form: Allows users to get in touch directly through the site.
+
+Getting Started
+
+Follow these steps to set up and deploy the website:
+
+Prerequisites
+
+A code editor (e.g., Visual Studio Code).
+
+Basic knowledge of HTML and CSS.
+
+Hosting platform account (e.g., GitHub Pages, Netlify, or Vercel).
+
+Installation
+
+Clone or download the repository:
+
+git clone https://github.com/yourusername/portfolio-site.git
+
+Navigate to the project directory:
+
+cd portfolio-site
+
+File Structure
+
+index.html: Main HTML structure of the site.
+
+styles.css: Contains all the styles for the site.
+
+images/: Folder to store project images (e.g., project1.jpg).
+
+Deployment
+
+GitHub Pages:
+
+Push the repository to GitHub.
+
+Enable GitHub Pages under repository settings.
+
+Your site will be live at https://yourusername.github.io/portfolio-site/.
+
+Netlify:
+
+Drag and drop the project folder to Netlify's deploy page.
+
+Netlify will provide a live URL.
+
+Vercel:
+
+Link your repository to Vercel.
+
+Vercel will handle deployment and provide a live URL.
+
+Customization
+
+Open index.html and update the placeholders:
+
+Replace Your Name with your actual name.
+
+Update project details under the portfolio section.
+
+Modify the resume section with your job and education history.
+
+Update styles.css to customize the appearance:
+
+Change colors, fonts, and layout as needed.
+
+Contact Form Setup
+
+The contact form in this project is static and requires a backend to process submissions. Use a service like Formspree or EmailJS to handle form submissions.
+
+Technologies Used
+
+HTML5: For the structure.
+
+CSS3: For styling and layout.
+
+Google Fonts: For typography.
+
+License
+
+This project is open-source and available under the MIT License. Feel free to use and modify it for personal or professional purposes.
